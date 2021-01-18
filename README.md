@@ -17,6 +17,8 @@
 
  You will be prompted to enter the price of your item.
 
+ You may enter values in whole numbers as well as decimals. 
+
  You will be prompted to enter the amount you are giving the cashier.
  If you enter an amount that is less than the price of the item you will be prompted to "PLEASE TRY AGAIN...". At this point you are able to enter another amount.
 
@@ -28,4 +30,4 @@
 
 ### Lessons Learned
 
- I learned that I need to create a road map before jumping into creating the program. I had to restructure my entire project because I did exactly that.
+ I learned that I need to create a road map before jumping into creating a program, not doing so forced me to reconstruct my entire program.
