@@ -82,6 +82,7 @@ public class MakeChange {
 		}
 		
 		makeChange(itemPrice, tender);
+	kb.close();
 	}
 
 	public static int makeChange(double itemPrice, double tender) {
